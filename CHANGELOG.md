@@ -29,6 +29,7 @@ All notable, unreleased changes to this project will be documented in this file.
 - JWT payload now contains user global id - #5039 by @salwator
 - Made middleware path resolving lazy and refactored middleware names - #5041 by @NyanKiyoshi
 - Generate slug in attribute value save - #5055 by @fowczarek
+- Extend top-level connection resolvers with ability to sort results - #5018 by @fowczarek
 
 ## 2.9.0
 
